@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">FriendsCard</string>
+
+    <!-- friend add page -->
+    <string name="save">保存</string>
+    <string name="friend_name">名前</string>
+    <string name="friend_phonetic">ふりがな</string>
+    <string name="friend_birthday">誕生日</string>
+    <string name="friend_favorite_food">好きな食べ物</string>
+    <string name="information_input_message">情報を入力してください！</string>
+    <string name="modify_finish_message">編集完了しました！</string>
+    <string name="add_friend_message">ともだちを登録しました！</string>
+    <string name="add_picture_failed_message">画像の保存に失敗しました</string>
+
 </resources>
