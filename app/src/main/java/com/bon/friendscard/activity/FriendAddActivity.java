@@ -9,7 +9,7 @@ import com.bon.friendscard.R;
 /**
  * 友だち追加画面
  */
-public class FriendAdd extends AppCompatActivity {
+public class FriendAddActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
